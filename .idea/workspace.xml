@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="be170e27-42f6-477c-b019-4c0efa564d52" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/advance/DecimalAndBinaryUsingRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/advance/FactorialUsingRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/advance/FibonacciRecusion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/advance/FindLargestNumberRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/advance/FindTheLongestStringUsingRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/advance/GCDRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/advance/PowerFunctionUsingRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/advance/ReversStringsUsingRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/advance/ReverseNumbersUsingRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/advance/SumOfOddNumbersUsingRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/collections/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/collections/BubbleSortRecursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/collections/BucketSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/collections/CardDeskSortAsString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/collections/CountOccurrecesInArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/collections/Interview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/collections/LongestStringInArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/collections/PiToArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/collections/RadixSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/collections/ReverseStringUsingArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/collections/SimpleBucketSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/collections/SortNumbersInArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/collections/Sorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/collections/SumOfNumbersOfArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/collections/SumOfPairsInArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/collections/TheLargestAndTheSmollest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/AbundantNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/ArmstrongNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/Average.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/BinaryOrNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/BinaryToDecimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/CollatzSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/ConsecutiveOrNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/ConvertSeconds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/DecimalToBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/DecimalToHexadecimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/DecimalToOctal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/EvenNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/FibonacciSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/GCD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/HappyNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/HexaDacimalToDecimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/LeapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/LuckyNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/MatrixMultiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/MegaPrimeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/NumberOfOccurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/NumbersToStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/OctalToDecimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/OddNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/PascalTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/PerfectNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/PowerOfTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/PrimeFactors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/PrimeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/Quadrant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/ReverseNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/SexyPrimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/SortThreeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/StringToNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/SumDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/SumOddNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/SumOfPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/Swap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/strings/AnagramsOrNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/strings/LengthOfString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/strings/LongestString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/strings/PalindromeOrNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/strings/Pangram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/strings/Permutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/strings/ReverseStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/strings/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/strings/StringCompresser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/strings/StringStatistic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/strings/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/strings/ToggleCase.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2ihvAjmOsrlPkd7JsRhVdrdsGPO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/taysa/Downloads/CodeChallenge/src/test/java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\taysa\Downloads\CodeChallenge\src\test\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BucketSort">
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeChallenge.collections.BubbleSort" />
+      <module name="CodeChallenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codeChallenge.collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BucketSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeChallenge.collections.BucketSort" />
+      <module name="CodeChallenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codeChallenge.collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BucketSort" />
+        <item itemvalue="Application.BubbleSort" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be170e27-42f6-477c-b019-4c0efa564d52" name="Changes" comment="" />
+      <created>1719955484038</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719955484038</updated>
+    </task>
+    <servers />
+  </component>
+</project>
