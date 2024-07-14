@@ -4,6 +4,10 @@ import java.util.Scanner;
 
 /*Abundant number is a number for which the sum of its proper divisors is greater than number.
 Example: 12=>1+2+3+4+6=18>12
+
+/* Избыточное число — это число, сумма собственных делителей которого больше самого числа.
+Пример: 12 => 1 + 2 + 3 + 4 + 6 = 18 > 12
+
 Problem: Write a program which will print abundant numbers up to given number.
  Enter 50
  Get 12, 18, 20, 24, 30 36, 40, 42, 48*/

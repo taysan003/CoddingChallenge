@@ -5,6 +5,11 @@ import java.util.Scanner;
 /*MegaPrime is a number if it is prime and all its digits are prime.
 Example: 23, 37, 53, 73, 223, 227, 233, 257, 277, 337, 353
 Problem: Write a program which will print out all MegaPrime numbers up to given number.*/
+
+/* MegaPrime — это число, если оно простое и все его цифры простые.
+Пример: 23, 37, 53, 73, 223, 227, 233, 257, 277, 337, 353
+Задача: Напишите программу, которая будет выводить все числа MegaPrime до заданного числа. */
+
 public class MegaPrimeNumbers {
     public static void main(String[] args) {
         Scanner iput =new Scanner(System.in);
@@ -36,9 +41,9 @@ public class MegaPrimeNumbers {
     }
 
     public static boolean isMegaPrime(int number){
-        if (number<10){
-            return false;
-        }
+//        if (number<10){
+//            return false;
+//        }
 
         String str = String.valueOf(number);
         String array [] = str.split("");

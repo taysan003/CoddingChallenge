@@ -4,6 +4,12 @@ Example: -6, -2, 0, 8, 20
 Problem: Print out even numbers up to given number: 10
 2, 4, 6, 8, 10*/
 
+/* Четные числа (положительные или отрицательные, не дробные, включая 0), которые делятся на 2.
+Пример: -6, -2, 0, 8, 20
+Задача: Вывести четные числа до заданного числа: 10
+2, 4, 6, 8, 10 */
+
+
 public class EvenNumbers {
     public static void main(String[] args) {
         int max =10;

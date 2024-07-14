@@ -4,6 +4,13 @@ Defenition: Permutation is the action of changing the arrangement of a character
 Problem: Write a program which will print all permutations of a string.
 Example: abc=> abc, acb, bac, bca, cab, cba*/
 
+/*
+Определение: Перестановка — это действие по изменению порядка символов.
+Задача: Напишите программу, которая будет выводить все перестановки строки.
+Пример: abc => abc, acb, bac, bca, cab, cba
+*/
+
+
 import java.util.Scanner;
 
 public class Permutation {
@@ -33,8 +40,8 @@ public class Permutation {
                 }else {
                     array[item]=0;
                 }
-                    item++;
-                }
+                item++;
+            }
             }
         }
     }

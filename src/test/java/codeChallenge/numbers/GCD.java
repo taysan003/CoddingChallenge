@@ -6,6 +6,13 @@ Example: 7, 42 =>7
 Problem: Write a program which calculates GCD of two given numbers by using Euclids algorithm.
 */
 
+/*
+Наибольший общий делитель (НОД) двух или более целых чисел — это наибольшее число, на которое делятся эти числа.
+Пример: 7, 42 => 7
+Задача: Напишите программу, которая вычисляет НОД двух заданных чисел, используя алгоритм Евклида.
+*/
+
+
 import java.util.Scanner;
 
 public class GCD {

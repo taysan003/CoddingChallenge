@@ -4,6 +4,12 @@ Consecutive Or Not
 Example: 123=>Consecutive; 985=> Not consecutive;
 Problem: Write a program which will check the given number is consecutive or not.
 */
+/*
+Последовательные или нет
+Пример: 123 => Последовательные; 985 => Не последовательные;
+Задача: Напишите программу, которая будет проверять, является ли данное число последовательным или нет.
+*/
+
 
 import java.util.Scanner;
 

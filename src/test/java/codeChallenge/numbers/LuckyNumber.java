@@ -6,6 +6,15 @@ Problem: Write a program which will take a number and prints its lucky number.
 Enter: 777
 Number: 3*/
 
+/*
+Счастливое число — это сумма его цифр до тех пор, пока не останется одна цифра.
+Пример: 777 => 3 (7 + 7 + 7 = 21, затем 2 + 1 = 3)
+Задача: Напишите программу, которая будет принимать число и выводить его счастливое число.
+Ввод: 777
+Число: 3
+*/
+
+
 import java.util.Scanner;
 
 public class LuckyNumber {

@@ -11,35 +11,43 @@ public class TestClass
     public static void main(String[] args)
     {
         Scanner scanner = new Scanner(System.in);
-        int number = scanner.nextInt();
+        String str = scanner.nextLine();
         scanner.close();
+        System.out.println(commperss(str));
 
-        int length = String.valueOf(number).length();
-
-        int[] array = new int [length];
-
-        for (int i = length-1; i >=0 ; i--)
-        {
-            array[i] = number%10;
-            number/=10;
-        }
-
-        for (int i: array)
-        {
-            System.out.print(i);
-
-        }
-
-        getReverse(array, 0);
     }
 
-    private static void getReverse(int[] array, int index)
+    private static String commperss(String input)
     {
-        if (index<array.length) {
-            getReverse(array, index+1);
-            System.out.print(array[index]);
+        if(input==null || input.isEmpty()) {
+            return input;
         }
 
+
+        StringBuilder result = new StringBuilder();
+        int count = 1;
+
+        char currentChar = input.charAt(0);
+
+        for (int i = 1; i <input.length() ; i++)
+        {
+            if (input.charAt(i) == currentChar) {
+                count++;
+            } else if (count>1) {
+                result.append(count);
+
+            }
+            currentChar = input.charAt(i);
+            count=1;
+
+            if (count>1) {
+                result.append(count);
+            }
+            result.append(currentChar);
+
+        }
+
+        return  result.toString();
     }
 }
 
