@@ -1,6 +1,7 @@
 package codeChallenge.numbers;
 /*
 Leap year is containing 366 day (February 29), divisible by 4 and 400, but not by 100. October 15, 1582
+Високосный год содержит 366 дней (29 февраля), делится на 4 и 400, но не делится на 100. Високосные годы были введены 15 октября 1582 года.
 Example: 2000=>leap year
 Problem: Write a program which will check the given year is leap or not.
 */

@@ -1,6 +1,8 @@
 package codeChallenge.numbers;
 
 /*Pefect Numbers is a positive integer  that is equal  to the sum of its proper divisors (6 =>1+2+3)
+
+/Совершенные числа — это положительные целые числа, которые равны сумме своих собственных делителей (6 => 1 + 2 + 3)/
 Example: 6, 28, 496, 8128, 33_550_336
 
 Problem: Print out perfect numbers up to given number: 10000*/

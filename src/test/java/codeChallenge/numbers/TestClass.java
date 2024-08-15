@@ -1,54 +1,41 @@
 package codeChallenge.numbers;
 
 
-import java.util.Scanner;
+import java.util.*;
 
 //Prime FActors of a positive integer are the prime numbers that divide that integer exactly
 //Example: 99=>3*3*11
 //12345
 public class TestClass
 {
+
     public static void main(String[] args)
     {
-        Scanner scanner = new Scanner(System.in);
-        String str = scanner.nextLine();
-        scanner.close();
-        System.out.println(commperss(str));
+        List<Integer> array = Arrays.asList(1, 7, 3, 6, 9, 4, 8, 2);
+       int sum = 10;
 
-    }
-
-    private static String commperss(String input)
-    {
-        if(input==null || input.isEmpty()) {
-            return input;
-        }
-
-
-        StringBuilder result = new StringBuilder();
-        int count = 1;
-
-        char currentChar = input.charAt(0);
-
-        for (int i = 1; i <input.length() ; i++)
+        for (int i = 0; i < array.size() ; i++)
         {
-            if (input.charAt(i) == currentChar) {
-                count++;
-            } else if (count>1) {
-                result.append(count);
+            for (int j = i+1; j < array.size() ; j++)
+            {
+                if (array.get(i) + array.get(j) == sum) {
+
+                    System.out.println(array.get(i) +" : "+ array.get(j));
+                }
 
             }
-            currentChar = input.charAt(i);
-            count=1;
-
-            if (count>1) {
-                result.append(count);
-            }
-            result.append(currentChar);
 
         }
 
-        return  result.toString();
+
     }
+
+
 }
+
+
+
+
+
 
 

@@ -48,6 +48,7 @@ public class MegaPrimeNumbers {
         String str = String.valueOf(number);
         String array [] = str.split("");
         for (String mega: array) {
+
             if(!isPrime(Integer.parseInt(mega))){
                 return false;
             }

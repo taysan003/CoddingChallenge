@@ -26,6 +26,7 @@ public class SumOfPairs {
                 }
             }
         }
+        //1,1;
 
         if (number.length() > 1) {
             number.deleteCharAt(number.length() - 2);  // Удаляем "; " в конце строки

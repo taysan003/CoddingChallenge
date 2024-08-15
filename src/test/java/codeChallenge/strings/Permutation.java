@@ -44,6 +44,36 @@ public class Permutation {
             }
             }
         }
+
+
+//    public class Main {
+//        public static void main(String[] args) {
+//            Scanner input = new Scanner(System.in);
+//            System.out.println("Enter the string: ");
+//            String string = input.nextLine();
+//            input.close();
+//
+//            generatePermutations(string.toCharArray(), 0, string.length() - 1);
+//        }
+//
+//        private static void generatePermutations(char[] chars, int start, int end) {
+//            if (start == end) {
+//                System.out.println(new String(chars));
+//            } else {
+//                for (int i = start; i <= end; i++) {
+//                    swap(chars, start, i);
+//                    generatePermutations(chars, start + 1, end);
+//                    swap(chars, start, i); // backtrack
+//                }
+//            }
+//        }
+//
+//        private static void swap(char[] chars, int i, int j) {
+//            char temp = chars[i];
+//            chars[i] = chars[j];
+//            chars[j] = temp;
+//        }
+//    }
     }
 
 

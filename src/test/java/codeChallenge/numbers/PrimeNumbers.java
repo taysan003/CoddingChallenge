@@ -28,7 +28,7 @@ public class PrimeNumbers {
         }
 
         for (int i = 2; i < number; i++) {
-            if (number % i == 0) {
+            if (number % i == 0) { // проверка деления числа на какое то от 2 до самого себя
                 return false;
             }
 

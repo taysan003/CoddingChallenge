@@ -4,22 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be170e27-42f6-477c-b019-4c0efa564d52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/collections/CollectionMatch.java" afterDir="false" />
+    <list default="true" id="be170e27-42f6-477c-b019-4c0efa564d52" name="Changes" comment="minor change">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/codeChallenge/collections/SimpleBucketSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/collections/SimpleBucketSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/AbundantNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/AbundantNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/ConsecutiveOrNot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/ConsecutiveOrNot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/EvenNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/EvenNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/Factorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/FibonacciSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/FibonacciSequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/GCD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/GCD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/LuckyNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/LuckyNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/LeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/LeapYear.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/MegaPrimeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/MegaPrimeNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/PerfectNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/PerfectNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/PrimeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/PrimeNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/SumOfPairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/SumOfPairs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/numbers/TestClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/codeChallenge/strings/AnagramsOrNot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/strings/AnagramsOrNot.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/codeChallenge/strings/Permutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/strings/Permutation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/codeChallenge/strings/StringCompresser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/strings/StringCompresser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/codeChallenge/strings/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/codeChallenge/strings/TestClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,13 +68,13 @@
       <recent name="C:\Users\taysa\Downloads\CodeChallenge\src\test\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CollectionMatch">
-    <configuration name="CollectionMatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeChallenge.collections.CollectionMatch" />
+  <component name="RunManager" selected="Application.codeChallenge.numbers.TestClass">
+    <configuration name="PerfectNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeChallenge.numbers.PerfectNumbers" />
       <module name="CodeChallenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codeChallenge.collections.*" />
+          <option name="PATTERN" value="codeChallenge.numbers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DecimalAndBinaryUsingRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeChallenge.advance.DecimalAndBinaryUsingRecursion" />
+    <configuration name="PrimeFactors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeChallenge.numbers.PrimeFactors" />
       <module name="CodeChallenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codeChallenge.advance.*" />
+          <option name="PATTERN" value="codeChallenge.numbers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringCompresser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeChallenge.strings.StringCompresser" />
+    <configuration name="SumOddNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeChallenge.numbers.SumOddNumbers" />
       <module name="CodeChallenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codeChallenge.strings.*" />
+          <option name="PATTERN" value="codeChallenge.numbers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeChallenge.strings.TestClass" />
+    <configuration name="SumOfPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeChallenge.numbers.SumOfPairs" />
       <module name="CodeChallenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codeChallenge.strings.*" />
+          <option name="PATTERN" value="codeChallenge.numbers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CollectionMatch" />
         <item itemvalue="Application.codeChallenge.numbers.TestClass" />
-        <item itemvalue="Application.StringCompresser" />
-        <item itemvalue="Application.DecimalAndBinaryUsingRecursion" />
-        <item itemvalue="Application.TestClass" />
+        <item itemvalue="Application.SumOfPairs" />
+        <item itemvalue="Application.SumOddNumbers" />
+        <item itemvalue="Application.PrimeFactors" />
+        <item itemvalue="Application.PerfectNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -158,7 +153,19 @@
       <option name="presentableId" value="Default" />
       <updated>1719955484038</updated>
     </task>
+    <task id="LOCAL-00001" summary="minor change">
+      <created>1720965105781</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720965105781</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="minor change" />
+    <option name="LAST_COMMIT_MESSAGE" value="minor change" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -242,6 +249,51 @@
           <url>file://$PROJECT_DIR$/src/test/java/codeChallenge/strings/StringCompresser.java</url>
           <line>44</line>
           <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/codeChallenge/numbers/PrimeFactors.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/codeChallenge/numbers/PrimeFactors.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/codeChallenge/numbers/PrimeFactors.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/codeChallenge/numbers/PrimeFactors.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/codeChallenge/numbers/GCD.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/codeChallenge/numbers/GCD.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/codeChallenge/numbers/GCD.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/codeChallenge/numbers/GCD.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/codeChallenge/numbers/GCD.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="26" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
